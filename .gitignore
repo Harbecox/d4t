@@ -1,0 +1,13 @@
+/vendor
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/.idea
+/.vagrant
+npm-debug.log
+yarn-error.log
+.env
+/github_api_token.txt
+_ide_helper.php
+composer.lock

@@ -1,0 +1,1 @@
+<span class='status-color' style='background:{{ $background }}'></span>

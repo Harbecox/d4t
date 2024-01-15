@@ -1,0 +1,1 @@
+<span class='info-icon' data-toggle="tooltip" data-placement="top" title="{{ $text }}">i</span>
